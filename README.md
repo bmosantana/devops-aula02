@@ -1,3 +1,5 @@
 # devops-aula02
 For learning purposes.
-Jughead Jones, Betty Cooper, Veronica Lodge
+Jughead Jones - South Side Serpents,
+Betty Cooper -  Is the psyco, 
+Veronica Lodge - New York City
